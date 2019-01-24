@@ -1,0 +1,9 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\bin\Debug\y2_disconnectedProje.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\bin\Debug\y2_disconnectedProje.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\bin\Debug\y2_disconnectedProje.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta9\Kurs_16Ocak2019\y2_disconnectedProje\y2_disconnectedProje\obj\Debug\y2_disconnectedProje.csprojResolveAssemblyReference.cache
